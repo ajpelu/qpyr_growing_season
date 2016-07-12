@@ -1,12 +1,12 @@
 # Growing season of *Quercus pyrenaica* Willd in Sierra Nevada
 
-[![GitHub version](https://badge.fury.io/gh/ajpelu%2Fqpyr_resilience.svg)](https://badge.fury.io/gh/ajpelu%2Fqpyr_resilience)
+[![GitHub version](https://badge.fury.io/gh/ajpelu%2Fqpyr_growing_season.svg)](https://badge.fury.io/gh/ajpelu%2Fqpyr_growing_season)
 
 # Summary 
 In this repo we explore the length of the growing season of the *Q. pyrenaica* forests of Sierra Nevada (southern Spain). 
  
 # Version 
-[![GitHub version](https://badge.fury.io/gh/ajpelu%2Fqpyr_resilience.svg)](https://badge.fury.io/gh/ajpelu%2Fqpyr_resilience)
+[![GitHub version](https://badge.fury.io/gh/ajpelu%2Fqpyr_growing_season.svg)](https://badge.fury.io/gh/ajpelu%2Fqpyr_growing_season)
 
 # License 
 This repository is licenced as Creative Commons Attribution 4.0 ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). You can find more info [here](/LICENSE). Anyone can use the content of the repository citing as followging:
