@@ -1,11 +1,8 @@
 # Growing season of *Quercus pyrenaica* Willd in Sierra Nevada
 
 [![GitHub version](https://badge.fury.io/gh/ajpelu%2Fqpyr_growing_season.svg)](https://badge.fury.io/gh/ajpelu%2Fqpyr_growing_season)
-[![Hits](https://ghit.me/badge.svg?repo=ajpelu/qpyr_growing_season)](https://ghit.me/repo/ajpelu/qpyr_growing_season)
 
 [![HitCount](https://hitt.herokuapp.com/{ajpelu||org}/{qpyr_growing_season}.svg)](https://ghit.me/repo/ajpelu/qpyr_growing_season)
-
-[![HitCount](https://hitt.herokuapp.com/{ajpelu||org}/{qpyr_growing_season}.svg)](https://github.com/ajpelu/qpyr_growing_season)
 
 # Summary 
 In this repo we explore the length of the growing season of the *Q. pyrenaica* forests of Sierra Nevada (southern Spain). 
