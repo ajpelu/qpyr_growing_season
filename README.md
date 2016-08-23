@@ -1,7 +1,6 @@
 # Growing season of *Quercus pyrenaica* Willd in Sierra Nevada
 
 [![GitHub version](https://badge.fury.io/gh/ajpelu%2Fqpyr_growing_season.svg)](https://badge.fury.io/gh/ajpelu%2Fqpyr_growing_season)
-
 [![HitCount](https://hitt.herokuapp.com/{ajpelu||org}/{qpyr_growing_season}.svg)](https://ghit.me/repo/ajpelu/qpyr_growing_season)
 
 # Summary 
