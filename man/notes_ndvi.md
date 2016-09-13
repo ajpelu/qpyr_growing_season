@@ -15,3 +15,9 @@ Several attributes derived from NDVI have been used as surrogated of ecological 
  * Phenology
  * NDVI 
  * Surface air temperatures
+ 
+## Resources (TODO)
+
+* Three decades of multi-dimensional change in global leaf phenology [url](http://www.nature.com/nclimate/journal/v5/n4/full/nclimate2533.html) 
+* http://www.sciencedirect.com/science/article/pii/S0034425713000229 
+* http://greenbrown.r-forge.r-project.org/ 
